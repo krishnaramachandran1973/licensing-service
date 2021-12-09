@@ -16,7 +16,7 @@
 	<description>Licensing Service</description>
 	<properties>
 		<java.version>11</java.version>
-		<docker.image.prefix>navkkrnair</docker.image.prefix>
+		<docker.image.prefix>ostock</docker.image.prefix>
 		<spring-cloud.version>2020.0.4</spring-cloud.version>
 	</properties>
 	<dependencies>
